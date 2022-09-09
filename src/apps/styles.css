@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+.bx {
+    color: cyan;
+}
+
+#navbarNav ul li a {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cyan;
+}
+
+h1 {
+    color: cyan;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-toggler,
+.navbar-toggler-icon,
+.navbar-collapse {
+    color: cyan;
+}
+
+.contador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    margin: 0 5px;
+}
