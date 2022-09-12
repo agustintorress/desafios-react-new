@@ -1,3 +1,4 @@
+import ItemDetailContainer from "./components/ItemDetailContainer";
 import ItemListContainer from "./components/ItemListContainer";
 import NavBar from "./components/NavBar";
 
@@ -10,6 +11,7 @@ function App() {
     <>
       <NavBar brand={"https://cdn.discordapp.com/attachments/852685565316825148/1011984326390452264/OmochaArg.gif"} />
       <ItemListContainer greeting={"Bienvenidos a OmochaARG"} />
+      <ItemDetailContainer />
     </>
   );
 }
