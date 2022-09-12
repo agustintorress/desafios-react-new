@@ -20,9 +20,3 @@ const Item = ({ info }) => {
 
 export default Item
 
-    // < div className = 'productos card bg-dark' >
-    //         <img src={info.pictureUrl} alt="" />
-    //         <h5 className='card-title'>{info.name}</h5>
-    //         <p>{info.description}</p>
-    //         <p>${info.price}</p>
-    //     </ div>
